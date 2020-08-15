@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>média on o1g</title>
+    <link>https://fckner.github.io/tags/m%C3%A9dia/</link>
+    <description>Recent content in média on o1g</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <copyright>Public Domain</copyright>
+    <lastBuildDate>Sun, 09 Aug 2020 20:32:36 +0200</lastBuildDate>
+    
+	<atom:link href="https://fckner.github.io/tags/m%C3%A9dia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lakájmédia [Hamarosan]</title>
+      <link>https://fckner.github.io/ner/lakajmedia/</link>
+      <pubDate>Sun, 09 Aug 2020 20:32:36 +0200</pubDate>
+      
+      <guid>https://fckner.github.io/ner/lakajmedia/</guid>
+      <description>Feldolgozatlan linkek  A Nemzeti Sport gyönyörűnek nevezte a sötétbe borult Pancho Arénát, majd bemutatott egy fotót a gyönyörű Kubatov Gáborról Demokrata: nem Schmitt lopott, hanem a Hvg.hu A jobboldali média térhódítása Magyarországon  </description>
+    </item>
+    
+    <item>
+      <title>Vadhajtások [Hamarosan]</title>
+      <link>https://fckner.github.io/ner/vadhajtasok/</link>
+      <pubDate>Sun, 09 Aug 2020 15:59:36 +0200</pubDate>
+      
+      <guid>https://fckner.github.io/ner/vadhajtasok/</guid>
+      <description>Feldolgozatlan linkek </description>
+    </item>
+    
+  </channel>
+</rss>

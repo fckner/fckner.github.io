@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>képzelt-ellenségek on o1g</title>
+    <link>https://fckner.github.io/tags/k%C3%A9pzelt-ellens%C3%A9gek/</link>
+    <description>Recent content in képzelt-ellenségek on o1g</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <copyright>Public Domain</copyright>
+    <lastBuildDate>Thu, 13 Aug 2020 23:14:45 +0200</lastBuildDate>
+    
+	<atom:link href="https://fckner.github.io/tags/k%C3%A9pzelt-ellens%C3%A9gek/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Határkerítés [Hamarosan]</title>
+      <link>https://fckner.github.io/ner/hatarkerites/</link>
+      <pubDate>Thu, 13 Aug 2020 23:14:45 +0200</pubDate>
+      
+      <guid>https://fckner.github.io/ner/hatarkerites/</guid>
+      <description>Feldolgozatlan linkek  Határkerítés  </description>
+    </item>
+    
+    <item>
+      <title>CEU [Hamarosan]</title>
+      <link>https://fckner.github.io/ner/ceu/</link>
+      <pubDate>Thu, 13 Aug 2020 23:10:15 +0200</pubDate>
+      
+      <guid>https://fckner.github.io/ner/ceu/</guid>
+      <description>Feldolgozatlan linkek </description>
+    </item>
+    
+  </channel>
+</rss>

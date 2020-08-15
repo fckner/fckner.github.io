@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>maffiaállam on o1g</title>
+    <link>https://fckner.github.io/tags/maffia%C3%A1llam/</link>
+    <description>Recent content in maffiaállam on o1g</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <copyright>Public Domain</copyright>
+    <lastBuildDate>Thu, 13 Aug 2020 23:11:07 +0200</lastBuildDate>
+    
+	<atom:link href="https://fckner.github.io/tags/maffia%C3%A1llam/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gruevszki-ügy [Hamarosan]</title>
+      <link>https://fckner.github.io/ner/gruevszki-ugy/</link>
+      <pubDate>Thu, 13 Aug 2020 23:11:07 +0200</pubDate>
+      
+      <guid>https://fckner.github.io/ner/gruevszki-ugy/</guid>
+      <description>Feldolgozatlan linkek  A Gruevszki-ügy  </description>
+    </item>
+    
+    <item>
+      <title>Paks 2 [Hamarosan]</title>
+      <link>https://fckner.github.io/ner/paks-2/</link>
+      <pubDate>Thu, 13 Aug 2020 23:09:25 +0200</pubDate>
+      
+      <guid>https://fckner.github.io/ner/paks-2/</guid>
+      <description>Feldolgozatlan linkek  Paksi bővítés  </description>
+    </item>
+    
+    <item>
+      <title>CBA [Hamarosan]</title>
+      <link>https://fckner.github.io/ner/cba/</link>
+      <pubDate>Mon, 10 Aug 2020 00:26:10 +0200</pubDate>
+      
+      <guid>https://fckner.github.io/ner/cba/</guid>
+      <description>Feldolgozatlan linkek  Kormánypárti tüntetésre kapacitálta dolgozóit a CBA  </description>
+    </item>
+    
+  </channel>
+</rss>

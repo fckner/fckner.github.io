@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rokonok on o1g</title>
+    <link>https://fckner.github.io/tags/rokonok/</link>
+    <description>Recent content in rokonok on o1g</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <copyright>Public Domain</copyright>
+    <lastBuildDate>Sun, 09 Aug 2020 13:42:08 +0200</lastBuildDate>
+    
+	<atom:link href="https://fckner.github.io/tags/rokonok/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gazdag rokonok [Hamarosan]</title>
+      <link>https://fckner.github.io/ner/fontos-rokonok/</link>
+      <pubDate>Sun, 09 Aug 2020 13:42:08 +0200</pubDate>
+      
+      <guid>https://fckner.github.io/ner/fontos-rokonok/</guid>
+      <description>Kubatov Gábor  Kubatov 80 éves anyósa, 2500 négyzetméteren építtet házat, garázsokat és műhelyt  Feldolgozatlan linkek </description>
+    </item>
+    
+    <item>
+      <title>Gazdag rokonok [Hamarosan]</title>
+      <link>https://fckner.github.io/ner/gazdag-rokonok/</link>
+      <pubDate>Sun, 09 Aug 2020 13:32:51 +0200</pubDate>
+      
+      <guid>https://fckner.github.io/ner/gazdag-rokonok/</guid>
+      <description>Kubatov Gábor  Kubatov 80 éves anyósa, 2500 négyzetméteren építtet házat, garázsokat és műhelyt  Feldolgozatlan linkek </description>
+    </item>
+    
+  </channel>
+</rss>

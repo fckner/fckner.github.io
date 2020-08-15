@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>megalománia on o1g</title>
+    <link>https://fckner.github.io/tags/megalom%C3%A1nia/</link>
+    <description>Recent content in megalománia on o1g</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <copyright>Public Domain</copyright>
+    <lastBuildDate>Sun, 09 Aug 2020 09:14:01 +0200</lastBuildDate>
+    
+	<atom:link href="https://fckner.github.io/tags/megalom%C3%A1nia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Felcsúti kisvasút [Hamarosan]</title>
+      <link>https://fckner.github.io/ner/felcsuti-kisvasut/</link>
+      <pubDate>Sun, 09 Aug 2020 09:14:01 +0200</pubDate>
+      
+      <guid>https://fckner.github.io/ner/felcsuti-kisvasut/</guid>
+      <description>Röviden Kapcsolódó videók Feldolgozatlan linkek </description>
+    </item>
+    
+    <item>
+      <title>Választási-rendszer [Hamarosan]</title>
+      <link>https://fckner.github.io/ner/valasztasi-rendszer/</link>
+      <pubDate>Sun, 09 Aug 2020 09:14:01 +0200</pubDate>
+      
+      <guid>https://fckner.github.io/ner/valasztasi-rendszer/</guid>
+      <description>Röviden Kapcsolódó videók Feldolgozatlan linkek </description>
+    </item>
+    
+  </channel>
+</rss>
