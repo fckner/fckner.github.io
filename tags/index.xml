@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on o1g</title>
+    <link>http://fckner.github.io/tags/</link>
+    <description>Recent content in Tags on o1g</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <copyright>Public Domain</copyright>
+    <lastBuildDate>Fri, 07 Aug 2020 20:59:36 +0200</lastBuildDate>
+    
+	<atom:link href="http://fckner.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>főkáder</title>
+      <link>http://fckner.github.io/tags/f%C5%91k%C3%A1der/</link>
+      <pubDate>Fri, 07 Aug 2020 20:59:36 +0200</pubDate>
+      
+      <guid>http://fckner.github.io/tags/f%C5%91k%C3%A1der/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>főnök</title>
+      <link>http://fckner.github.io/tags/f%C5%91n%C3%B6k/</link>
+      <pubDate>Mon, 03 Aug 2020 23:49:28 +0200</pubDate>
+      
+      <guid>http://fckner.github.io/tags/f%C5%91n%C3%B6k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>politikus</title>
+      <link>http://fckner.github.io/tags/politikus/</link>
+      <pubDate>Mon, 03 Aug 2020 23:39:37 +0200</pubDate>
+      
+      <guid>http://fckner.github.io/tags/politikus/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
