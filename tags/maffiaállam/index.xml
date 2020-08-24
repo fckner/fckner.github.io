@@ -7,45 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>hu</language>
     <copyright>Public Domain</copyright>
-    <lastBuildDate>Thu, 13 Aug 2020 23:11:07 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2020 01:01:24 +0200</lastBuildDate>
     
 	<atom:link href="https://fckner.github.io/tags/maffia%C3%A1llam/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Gruevszki-ügy [Hamarosan]</title>
-      <link>https://fckner.github.io/ner/gruevszki-ugy/</link>
-      <pubDate>Thu, 13 Aug 2020 23:11:07 +0200</pubDate>
+      <title>Index [Hamarosan]</title>
+      <link>https://fckner.github.io/ner/</link>
+      <pubDate>Mon, 10 Aug 2020 01:01:24 +0200</pubDate>
       
-      <guid>https://fckner.github.io/ner/gruevszki-ugy/</guid>
-      <description>Feldolgozatlan linkek  A Gruevszki-ügy  </description>
-    </item>
-    
-    <item>
-      <title>Paks 2 [Hamarosan]</title>
-      <link>https://fckner.github.io/ner/paks-2/</link>
-      <pubDate>Thu, 13 Aug 2020 23:09:25 +0200</pubDate>
-      
-      <guid>https://fckner.github.io/ner/paks-2/</guid>
-      <description>Feldolgozatlan linkek  Paksi bővítés  </description>
-    </item>
-    
-    <item>
-      <title>CBA [Hamarosan]</title>
-      <link>https://fckner.github.io/ner/cba/</link>
-      <pubDate>Mon, 10 Aug 2020 00:26:10 +0200</pubDate>
-      
-      <guid>https://fckner.github.io/ner/cba/</guid>
-      <description>Feldolgozatlan linkek  Kormánypárti tüntetésre kapacitálta dolgozóit a CBA  </description>
-    </item>
-    
-    <item>
-      <title>Az állam foglyul ejtése [Hamarosan]</title>
-      <link>https://fckner.github.io/ner/az-allam-foglyul-ejtese/</link>
-      <pubDate>Sun, 09 Aug 2020 09:34:30 +0200</pubDate>
-      
-      <guid>https://fckner.github.io/ner/az-allam-foglyul-ejtese/</guid>
-      <description>Feldolgozatlan linkek  A NER igazi sikertörténete: a magyar korrupció reformja Az állam foglyul ejtésétôl a piac fogvatartásáig A korrupció központi szerepe és az állam “foglyul ejtése”  </description>
+      <guid>https://fckner.github.io/ner/</guid>
+      <description>Feldolgozatlan linkek  Az Index átvétele - lista, 444.hu Dull Szabolcs az Indexről és a másikról: Valami ekkorát kéne építenünk - 2020, hvg.hu Van, aki még elhiszi, hogy a kormány nem hallgattatja el a neki nem tetsző véleményeket, ha erre lehetőséget kap? - 2020, 444.hu  </description>
     </item>
     
   </channel>
