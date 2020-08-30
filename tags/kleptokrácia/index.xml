@@ -7,54 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>hu</language>
     <copyright>Public Domain</copyright>
-    <lastBuildDate>Thu, 13 Aug 2020 23:09:48 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2020 00:38:31 +0200</lastBuildDate>
     
 	<atom:link href="https://fckner.github.io/tags/kleptokr%C3%A1cia/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Budapest-Belgrád vasútvonal [Hamarosan]</title>
-      <link>https://fckner.github.io/ner/budapest-belgrad-vasutvonal/</link>
-      <pubDate>Thu, 13 Aug 2020 23:09:48 +0200</pubDate>
+      <title>Trafikmutyi</title>
+      <link>https://fckner.github.io/ner/trafikmutyi/</link>
+      <pubDate>Sun, 16 Aug 2020 00:38:31 +0200</pubDate>
       
-      <guid>https://fckner.github.io/ner/budapest-belgrad-vasutvonal/</guid>
-      <description>Feldolgozatlan linkek  A Budapest-Belgrád vasútvonal  </description>
-    </item>
-    
-    <item>
-      <title>Paks 2 [Hamarosan]</title>
-      <link>https://fckner.github.io/ner/paks-2/</link>
-      <pubDate>Thu, 13 Aug 2020 23:09:25 +0200</pubDate>
-      
-      <guid>https://fckner.github.io/ner/paks-2/</guid>
-      <description>Feldolgozatlan linkek  Paksi bővítés  </description>
-    </item>
-    
-    <item>
-      <title>Vagyonbevallások [Hamarosan]</title>
-      <link>https://fckner.github.io/ner/vagyonbevallasok/</link>
-      <pubDate>Sun, 09 Aug 2020 13:36:21 +0200</pubDate>
-      
-      <guid>https://fckner.github.io/ner/vagyonbevallasok/</guid>
-      <description>Feldolgozatlan linkek </description>
-    </item>
-    
-    <item>
-      <title>Gazdag rokonok [Hamarosan]</title>
-      <link>https://fckner.github.io/ner/gazdag-rokonok/</link>
-      <pubDate>Sun, 09 Aug 2020 13:32:51 +0200</pubDate>
-      
-      <guid>https://fckner.github.io/ner/gazdag-rokonok/</guid>
-      <description>Kubatov Gábor  Kubatov 80 éves anyósa, 2500 négyzetméteren építtet házat, garázsokat és műhelyt  Feldolgozatlan linkek </description>
-    </item>
-    
-    <item>
-      <title>Felcsúti kisvasút [Hamarosan]</title>
-      <link>https://fckner.github.io/ner/felcsuti-kisvasut/</link>
-      <pubDate>Sun, 09 Aug 2020 09:14:01 +0200</pubDate>
-      
-      <guid>https://fckner.github.io/ner/felcsuti-kisvasut/</guid>
-      <description>Röviden Kapcsolódó videók Feldolgozatlan linkek </description>
+      <guid>https://fckner.github.io/ner/trafikmutyi/</guid>
+      <description>Röviden “Ahogy a nyerőgépek betiltását is egyszerre igazolta a kormány nemzetbiztonsági kockázattal és egészségügyi károkkal, a dohánykiskereskedelem átalakítására is kész volt a magyarázat: a kiskorúak védelme. Az ellenzők azonban egészen más indokokat sejtettek a dohánytermékek kiskereskedelmi forgalmazását az újonnan létrehozandó nemzeti dohányboltokba száműző 2013-as törvény mögött – különösen, miután kiderült, hogy a trafiktörvény tervezetét a legnagyobb magyar tulajdonú dohánycég, a Continental elnökének, Sánta Jánosnak a gépén írták.
+A cáfolatként közölt kacifántos magyarázattól most megkímélnénk mindenkit, inkább arra hívnánk fel a figyelmet, hogy a Sántáék érdekeltségi körébe tartozó cégek több mint ötszáz trafik üzemeltetésének jogát nyerték el húsz évre a teljesen átláthatatlan pályáztatás során.</description>
     </item>
     
   </channel>
